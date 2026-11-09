@@ -1,0 +1,13 @@
+br\edu\checkout\PedidoRepository.class
+br\edu\checkout\Pagamento.class
+br\edu\checkout\PedidoConfirmado.class
+br\edu\checkout\FalhaNotificacaoException.class
+br\edu\checkout\SolicitacaoCheckout.class
+br\edu\checkout\EstoqueGateway.class
+br\edu\checkout\PagamentoRecusadoException.class
+br\edu\checkout\EstoqueInsuficienteException.class
+br\edu\checkout\Notificador.class
+br\edu\checkout\PagamentoGateway.class
+br\edu\checkout\ResultadoCheckout.class
+br\edu\checkout\FalhaPagamentoException.class
+br\edu\checkout\ServicoCheckout.class
